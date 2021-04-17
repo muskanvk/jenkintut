@@ -1,2 +1,3 @@
-# jenkintut
-CI/CD using Jenkin
+# maven-project
+
+Simple Maven Project
